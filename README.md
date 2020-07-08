@@ -1,1 +1,3 @@
 # rust_iterators
+
+Rust iterator experimenting. Based on [Jon Gjengset's](https://www.youtube.com/redirect?redir_token=QUFFLUhqbU1vbmFLRlEybWZmQkNnMHdQVENpZHRwbFliUXxBQ3Jtc0trSS1wNHVmUXVfeFh5LTk2U1VQeEpFMUg5Mnplc19xbzZSN1JIa3ZxNnZVRFVaU3B3eHU3RFBOaDNFTlJWOHItSE5oeU5NZGpyWmxXQ3dIelNzWmhFME80T0RSTjFtdW5JemZoY3VfbV95cVhmalV6Zw%3D%3D&event=video_description&v=yozQ9C69pNs&q=https%3A%2F%2Fgist.github.com%2Fjonhoo%2Fdd63b720fa4a220ea845a77e2d75831e)
